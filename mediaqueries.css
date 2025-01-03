@@ -82,7 +82,7 @@
         gap: 0.5rem;
         text-align: center;
     }
-    .section__pic-container, .section__pic-container2 {
+    .section__pic-container, /*.section__pic-container2*/ {
         width: auto;
         height: 46vw;
         justify-content: center;
